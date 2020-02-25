@@ -21,13 +21,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Janice H. Yerin Lee',
+    name: 'Janice Yerin Lee',
     photo: '/pear.jpeg',
-    bio: 'Junior developer seeking for new opportunities. Love learning and creating simple things.',
+    bio: 'Junior developer seeking for new opportunities. Currently learning Python/Django. ',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '#',
       telegram: '#',
+      twitter: '#',
       github: '/meekukin',
       rss: '',
       vkontakte: '',
