@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Janice Lee',
+  title: 'Blog by Yerin',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: 'meekukin',
@@ -21,15 +21,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Janice Lee',
+    name: 'Janice H. Yerin Lee',
     photo: '/pear.jpeg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Junior developer seeking for new opportunities. Love learning and creating simple things.',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: 'https://github.com/meekukin',
+      github: '/meekukin',
       rss: '',
       vkontakte: '',
       linkedin: '#',
