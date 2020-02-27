@@ -27,19 +27,14 @@ module.exports = {
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '#',
-      telegram: '#',
-      twitter: '#',
+      //telegram: '#',
+      //twitter: '#',
       github: '/meekukin',
       rss: '',
       vkontakte: '',
       linkedin: '#',
       instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
+
     }
   }
 };
