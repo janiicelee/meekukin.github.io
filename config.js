@@ -26,15 +26,20 @@ module.exports = {
     bio: 'Junior developer seeking for new opportunities. Currently learning Python/Django. ',
     contacts: {
       email: 'meekukin@gmail.com',
-      facebook: '#',
-      //telegram: '#',
-      //twitter: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
       github: '/meekukin',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-
+      linkedin: 'in/janice-hae-yerin-lee-825621185',
+      instagram: '',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: '',
+      youtube: '',
+      soundcloud: '',
     }
   }
 };
