@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
   title: 'Blog by Yerin',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  subtitle: '#',
   copyright: '© All rights reserved.',
   disqusShortname: 'meekukin',
   postsPerPage: 4,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Janice Yerin Lee',
     photo: '/pear.jpeg',
-    bio: 'Junior developer seeking for new opportunities. Currently learning Python/Django. ',
+    bio: 'Junior developer seeking for new opportunities. Currently learning Python/Django./n 공부하고 배운것을 기록합니다 :)',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '',
@@ -32,7 +32,7 @@ module.exports = {
       github: '/meekukin',
       rss: '',
       vkontakte: '',
-      linkedin: 'in/janice-hae-yerin-lee-825621185',
+      linkedin: 'janice-hae-yerin-lee',
       instagram: '',
       line: '',
       gitlab: '',
