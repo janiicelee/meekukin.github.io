@@ -23,13 +23,13 @@ module.exports = {
   author: {
     name: 'Janice Yerin Lee',
     photo: '/pear.jpeg',
-    bio: 'Junior developer seeking for new opportunities. Currently learning Python/Django./n 공부하고 배운것을 기록합니다 :)',
+    bio: 'Welcome to my blog! 졸꾸!하는 개발자 이예린입니다. 반갑습니다 :)',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '',
       telegram: '',
       twitter: '',
-      github: '/meekukin',
+      github: 'meekukin',
       rss: '',
       vkontakte: '',
       linkedin: 'janice-hae-yerin-lee',
