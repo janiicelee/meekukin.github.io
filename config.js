@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by Yerin',
+  title: 'Yerin-log',
   subtitle: '#',
   copyright: '© All rights reserved.',
   disqusShortname: 'meekukin',
@@ -21,9 +21,9 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Janice Yerin Lee',
+    name: 'Janice H. Yerin Lee',
     photo: '/pear.jpeg',
-    bio: 'Welcome to my blog! 졸꾸!하는 개발자 이예린입니다. 반갑습니다 :)',
+    bio: '배운 것을 기록하고 공유합니다. 반갑습니다! Thanks for coming over. Please share your thoughts on each topic!',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '',

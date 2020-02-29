@@ -5,8 +5,8 @@ socialImage: "/pear.jpeg"
 ---
 
 
-![My favorite fruit on earth. First bite was in my favorite land, Singapore.](/pear.jpeg)
-*My favorite fruit on earth. First bite was in my favorite land, Singapore.*
+![](/pear.jpeg)
 
-Hi! This is Janice and I'm interested in making new things with python and django. Love learning, creating and communicating with people in different backgrounds. Please share your comments and thoughts! Thank you :-)
+
+파이썬의 간결함과 확장성에 매력을 느껴 프로그래밍 세계에 입문하게 되었습니다. 기술의 본질을 이해하고 가독성 높은 코드로 유저를 만족시키는 웹을 개발하고 싶습니다. 아직 모르는 것이 많지만 졸꾸(졸려도 꾸준히)하고 있습니다. 많은 의견과 조언 바랍니다! 감사합니다 :-)
 
