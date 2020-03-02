@@ -14,8 +14,9 @@ socialImage: "#"
 
 + WeSpace: [SpaceCloud](https://www.spacecloud.kr/) 클론
 + 약 2주간 진행 (19.12.23 - 20.01.03)
-+ 프론트앤드 2명 , 백엔드 2명으로 구성
-+ [WeSpace Backend](https://github.com/meekukin/WeSpace_backend) git
++ 프론트앤드 2명 , 백엔드 2명으로 구성된 팀 프로젝트
++ Git으로 소스코드 관리 - [WeSpace Backend](https://github.com/meekukin/WeSpace_backend) git
++ Trello를 이용한 협업, daily scrum meeting 진행
 
 ## 사용된 기술
 
