@@ -12,6 +12,9 @@ tags:
 description: "Json Web Token에 대해 더 알아보자."
 socialImage: "#"
 ---
+## 배경지식   
+HTTP 통신은 stateless 성격 때문에, 각각의 HTTP 통신은 독립적이며 이전에 어떠한 통신들이 실행됐는지 알지 못한다. 이러한 HTTP의 성질 때문에 생기는 이슈 중 하나가 바로 인증 절차다. 현재의 HTTP 통신에서 이전에 통신에서 이미 인증이 진행됐는지 알지 못하기 때문이다. 그러므로 통신을 할 때는 해당 HTTP 요청을 처리하기 위해서 필요한 모든 데이터(로그인 정보 등)를 첨부해서 요청을 보내야 한다.   
+access token은 바로 로그인 정보를 담고있는 데이터이다.
 
 ## JWT(JSON Web Token)
 
@@ -51,6 +54,7 @@ refresh token은 새로운 access token을 발급받기 위한 정보를 갖는�
 
 
 ###### (참조)   
+https://lordmyshepherd.github.io/posts/%EB%A9%B4%EC%A0%91%EC%A4%80%EB%B9%84(%EA%B8%B0%EC%88%A0)
 https://swalloow.github.io/implement-jwt   
 https://tansfil.tistory.com/59
 
