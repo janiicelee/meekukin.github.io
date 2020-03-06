@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Janice H. Yerin Lee',
     photo: '/pear.jpeg',
-    bio: '배운 것을 기록하고 공유합니다. 반갑습니다! Thanks for coming over. Please share your thoughts on each topic!',
+    bio: '배운 내용을 정리하고 기록하는 예린로그 :) ',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '',
