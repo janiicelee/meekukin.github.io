@@ -4,7 +4,7 @@ date: "2020-03-02T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "jwt-access-token"
-category: "Computer science"
+category: "Computer Science"
 tags:
   - "jwt"
   - "access token"

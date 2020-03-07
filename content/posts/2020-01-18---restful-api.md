@@ -4,7 +4,7 @@ date: "2020-01-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "restful-api"
-category: "Computer science"
+category: "Computer Science"
 tags:
   - "RESTful API"
   - "URI"

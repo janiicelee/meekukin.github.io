@@ -4,7 +4,7 @@ date: "2020-01-04T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "위코드-1차-프로젝트"
-category: "project"
+category: "Projects"
 description: "위코드에서 진행한 스페이스클라우드 클론 1차 프로젝트"
 socialImage: "#"
 ---

@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Janice H. Yerin Lee',
     photo: '/pear.jpeg',
-    bio: '졸려도 꾸준히 기록하는 예린로그!',
+    bio: '졸려도 꾸준히 기록하는 예린로그',
     contacts: {
       email: 'meekukin@gmail.com',
       facebook: '',
