@@ -90,5 +90,30 @@ def inset_node(data):
 
 ##### 참조: https://lsjsj92.tistory.com/461   
 
-## 요세푸스 문제 풀이 - 원형연결리스트   
-https://comdoc.tistory.com/entry/6-%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4-%EB%AC%B8%EC%A0%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC
+## 백준 1158번 - 요세푸스 문제   
+```python
+N, K = map(int, input().split())
+josephus = [i for i in range(1, N + 1)]
+result = []
+temp = K - 1
+
+
+for i in range(N):
+    if len(josephus) > temp: #위치가 리스트를 넘지 않은 경우
+        result.append(josephus.pop(temp)) #답 추가
+        temp += K - 1 #다음 위치로 이동
+        
+    elif len(josephus) <= temp: #위치가 리스트를 넘은 경우
+        temp = temp % len(josephus)
+        result.append(josephus.pop(temp))
+        temp += K - 1
+
+#출력
+print("<", end='')
+for i in result:
+    if i == result[-1]:
+        print(i, end = '')
+    else:
+        print("%s, " %(i), end='')
+print(">")
+```
