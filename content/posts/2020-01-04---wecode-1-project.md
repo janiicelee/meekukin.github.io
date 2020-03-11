@@ -10,7 +10,8 @@ socialImage: "#"
 ---
 
 ## Introduction
-![](/media/wespace_screenshot.png)
+![](/media/wespace_screenshot.png)   
+영상: https://www.youtube.com/watch?v=ZN4xooW1LEQ
 
 + WeSpace: [SpaceCloud](https://www.spacecloud.kr/) 클론
 + 약 2주간 진행 (19.12.23 - 20.01.03)

@@ -16,18 +16,21 @@ socialImage: "#"
 
 ### 액세스 코드 받기   
 - 유저가 정보제공에 동의하고 나면, 코드는 쿼리스트링에 담겨서 redirect uri로 넘어가게 된다.   
+
 ```python
 import json
 from django.views import View 
-from django.http  import JsonResponse, HttpResponse
+from django.http  import JsonResponse, HttpResponse   
 
 class KakaoLoginView(View:
     def get(self, request):
         kakao_access_code = request.GET.get('code',None)
         return HttpResponse(f'{code}')
-```   
 
+```   
+   
 ### 액세스 토큰 받기   
+        
 코드를 받았으니 코드를 이용해서 액세스 토큰을 받아와야 한다. 위의 코드에서 리턴 부분을 지우고 다음을 추가한다.   
 ```python
         url = 'https://kauth.kakao.com/oauth/token'
