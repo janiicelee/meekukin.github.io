@@ -10,6 +10,7 @@ socialImage: "#"
 ---
 
 ## Introduction   
+![](/media/메인화면.png)
 - [Vogue Korea](http://www.vogue.co.kr/) website cloning.
 - Built in two weeks. (01/06/20 - 01/17/20)
 - 프론트엔드 3명, 백엔드 2명으로 구성된 팀 프로젝트.
