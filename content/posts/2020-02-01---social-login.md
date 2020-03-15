@@ -11,8 +11,8 @@ socialImage: "#"
 
 ### 카카오 개발자 등록하기   
 - [Kakao Developers](https://developers.kakao.com/) 에 접속하여 개발자 등록을 하고 앱서비스를 등록하고 나면, api 키를 발급받을 수 있다. 우리는 rest api를 사용하므로 rest api 키를 발급받는다. 설정-사용자 관리탭에서 사용자 관리 활성화를 해주고, 서비스에서 사용자들에게 받고 싶은 정보를 설정한다.   
-- 코드를 리다이렉트 받을 Redirect URI를 설정해야 합니다. Third-party(개발한 페이지)에서 user가 로그인을 요청하게 되면 카카오의 로그인 페이지로 이동합니다. 사용자가 로그인에 성공하면 다시 Third-party로 돌아가야 하는데
-그 돌아갈 페이지의 주소가 Redirect URI 입니다.
+- 코드를 리다이렉트 받을 Redirect URI를 설정해야 한다. Third-party(개발한 페이지)에서 user가 로그인을 요청하게 되면 카카오의 로그인 페이지로 이동한다. 사용자가 로그인에 성공하면 다시 Third-party로 돌아가야 하는데
+그 돌아갈 페이지의 주소가 Redirect URI 이다.
 
 ### 액세스 코드 받기   
 - 유저가 정보제공에 동의하고 나면, 코드는 쿼리스트링에 담겨서 redirect uri로 넘어가게 된다.   
